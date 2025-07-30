@@ -1,5 +1,11 @@
 # 👋 Merhaba! Ben YTeokraTY
 
+Hello, it doesn't matter who I am now. You'll know me through big projects in the future.
+                                       ![Uploading TheThingMarvelGIF.gif…]()
+
+Merhaba, şu an kim olduğumun bir önemi yok. Beni ileride yapacağım büyük projelerle tanıyacaksınız.
+
+
 📌 **Tkinter ile Python projeleri geliştiriyorum.**  
 🎯 Odaklandığım konular: Masaüstü uygulamaları, JSON veri yönetimi, kullanıcı arayüzleri.
 
