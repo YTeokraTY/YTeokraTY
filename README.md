@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Merhaba! Ben YTeokraTY
 
-<!--
-**YTeokraTY/YTeokraTY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📌 **Tkinter ile Python projeleri geliştiriyorum.**  
+🎯 Odaklandığım konular: Masaüstü uygulamaları, JSON veri yönetimi, kullanıcı arayüzleri.
 
-Here are some ideas to get you started:
+## 🚀 Projelerimden Bazıları
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📘 [BBC Ders Defteri Project](https://github.com/YTeokraTY/BBC-Ders-Defteri-Project)  
+  Tkinter tabanlı, kullanıcı girişi ve ders/ödev takibi sağlayan bir masaüstü uygulaması.
+
+## 📫 Bana Ulaş
+
+- Discord: [YorgunTeokrat](https://discord.com/users/yorgun_teokrat)  
+- GitHub: [github.com/YTeokraTY](https://github.com/YTeokraTY)
+
+  
+## 💡 Hedeflerim
+
+- 🧠 Python bilgimi ileri seviyeye taşımak  
+- 🔧 Açık kaynak projelere katkı sağlamak
+
+---
+
+⭐️ Repolarımı beğendiysen yıldız vermeyi unutma!
